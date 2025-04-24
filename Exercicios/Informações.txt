@@ -1,0 +1,46 @@
+Descrição
+
+Bem-vindo ao curso completo de SQL com certificado!
+
+
+Aqui você aprenderá desde o básico até os recursos mais avançados dos bancos de dados relacionais, sem necessidade de conhecimento prévio. Esse curso é ideal para iniciantes e oferece mais de 30 exercícios práticos e projetos diversos para desenvolver suas habilidades.
+
+
+O que você aprenderá:
+
+    Gerenciamento de bancos de dados e tabelas
+    Comandos CRUD (Create, Read, Update, Delete)
+    JOINs para unir tabelas
+    Constraints (Primary Key, Auto Increment, Not Null e mais)
+    Funções de agregação, subconsultas, funções de string, numéricas e de datas
+    Análise e planejamento de bancos de dados com diagrama ER
+    Projeto prático com PHP e MySQL
+
+
+Além disso, você terá uma sessão extra sobre PHP, uma linguagem popular para trabalhar com bancos de dados MySQL, perfeita para projetos web.
+
+
+Por que aprender MySQL?
+
+
+O MySQL é um dos sistemas de gerenciamento de banco de dados mais utilizados no mundo, conhecido por sua confiabilidade e facilidade de uso. Ele oferece:
+
+
+    Escalabilidade: permite dimensionar seu banco de dados para grandes volumes de dados.
+    Suporte a transações ACID: garante integridade e segurança nas operações.
+    Compatibilidade com várias plataformas: disponível para Windows, Linux e macOS.
+    Comunidade ativa: com fóruns, documentação e suporte fácil de acessar.
+
+
+Mercado de trabalho para SQL
+
+
+A demanda por profissionais com habilidades em SQL é alta em áreas como desenvolvimento de software, análise de dados e administração de banco de dados. Dominar SQL é um diferencial competitivo que pode abrir portas em diversas áreas.
+
+
+Quem pode fazer este curso?
+
+
+Qualquer pessoa interessada em SQL! Este curso completo é acessível a todos os níveis, e aprender SQL é um passo valioso para quem quer trabalhar com dados.
+
+Vamos aprender SQL e MySQL do básico ao avançado? Nos vemos no curso!
