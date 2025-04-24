@@ -1,3 +1,5 @@
+Curso SQL do básico ao avançado (com MySQL e Projeto)
+
 Descrição
 
 Bem-vindo ao curso completo de SQL com certificado!
