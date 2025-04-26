@@ -1,0 +1,30 @@
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ mysql -u root
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ Mysql -u root
+Comando 'Mysql' não encontrado, você quis dizer:
+  comando 'mysql' do deb mysql-client-core-8.0 (8.0.41-0ubuntu0.24.04.1)
+  comando 'mysql' do deb mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1)
+Experimente: sudo apt install <deb name>
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ Mysql -u root
+Comando 'Mysql' não encontrado, você quis dizer:
+  comando 'mysql' do deb mysql-client-core-8.0 (8.0.41-0ubuntu0.24.04.1)
+  comando 'mysql' do deb mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1)
+Experimente: sudo apt install <deb name>
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ sudo apt install mysql
+[sudo] senha para andreluis:        
+Lendo listas de pacotes... Pronto
+Construindo árvore de dependências... Pronto
+Lendo informação de estado... Pronto        
+E: Impossível encontrar o pacote mysql
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ mysql-client-core-8.0 (8.0.41-0ubuntu0.24.04.1)
+bash: erro de sintaxe próximo ao token inesperado `8.0.41-0ubuntu0.24.04.1'
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ deb mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1)
+bash: erro de sintaxe próximo ao token inesperado `('
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ 'deb mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1)'
+deb mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1): comando não encontrado
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ 'mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1)'
+mariadb-client-core (1:10.11.8-0ubuntu0.24.04.1): comando não encontrado
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ 'mysql-client-core-8.0 (8.0.41-0ubuntu0.24.04.1)'
+mysql-client-core-8.0 (8.0.41-0ubuntu0.24.04.1): comando não encontrado
+andreluis@DesenvolvedorFullStack:~/Curso Hora de Codar/cursoDesqlDaHoraCodar$ 
+na próxima aula...bora pesquisa...
